@@ -15,7 +15,7 @@ This mod was made with `BepInEx` which is why you need to install it first.
 
 ### Installing BiggerTeam
 
-- Download the latest release of [Faster](https://github.com/remyCases/Shardpunk-MoreSkillLevels/releases). 
+- Download the latest release of [MoreSkillLevels](https://github.com/remyCases/Shardpunk-MoreSkillLevels/releases). 
 - Move it in the `Shardpunk/BepInEx/plugins` folder.
 
 You can now play the game with the modded version !
